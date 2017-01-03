@@ -1,0 +1,2 @@
+%{"absinthe": {:hex, :absinthe, "1.2.3", "634da49aacc4c9568760cdf3fe8c400ce9368815985e366e893ea8fcbe58f405", [:mix], []},
+  "dialyxir": {:hex, :dialyxir, "0.4.1", "236056d6acd25f740f336756c0f3b5dd6e2f0156074bc15f3b779aeee15390c8", [:mix], []}}
